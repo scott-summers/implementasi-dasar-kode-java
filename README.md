@@ -1,4 +1,4 @@
-# Implementasi Dasar Kode Java
+# Implementasi Dasar Beberapa Kode Java
 
 File 1: Mengambil input dari user dengan java.util.Scanner
 
@@ -9,3 +9,5 @@ File 3: Sorting dan Median
 File 4: Pemisahan bilangan
 
 File 5: Pemisahan bilangan dengan menambahkan satuannya
+
+~
