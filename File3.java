@@ -28,7 +28,7 @@ public class File3 {
 	        a[j] = copyArray;
 		}
 
-    // menampilkan bilangan yg sudah diurutkan
+   		 // menampilkan bilangan yg sudah diurutkan
 		System.out.print("Bilangan setelah diurutkan: ");
 		for (int i=0; i<a.length; i++) {
 			System.out.print(a[i]+" ");
