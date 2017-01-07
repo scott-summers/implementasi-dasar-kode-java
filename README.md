@@ -7,3 +7,5 @@ File 2: Pembulatan angka dengan Math.round dan DecimalFormat
 File 3: Sorting dan Median
 
 File 4: Pemisahan bilangan
+
+File 5: Pemisahan bilangan dengan menambahkan satuannya
