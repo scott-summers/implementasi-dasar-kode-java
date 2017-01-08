@@ -10,4 +10,6 @@ File 4: Pemisahan bilangan
 
 File 5: Pemisahan bilangan dengan menambahkan satuannya
 
+File 6: Transkripsi DNA ke RNA
+
 ~
