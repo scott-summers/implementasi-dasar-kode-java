@@ -32,7 +32,7 @@ public class File6 {
 				// double helix:   A <-> T    G <-> C
 				// 		* A = Adenin, G = Guanin, C = Cytosine, T = Timin, U = Urasil
 				// contoh: 
-				// 	  DNA:--------------TGCAGA
+				//    DNA:--------------TGCAGA
 				// 		* A menjadi T dan sebaliknya. Kemudian G menjadi C dan sebaliknya.
 				//    Replikasi DNA:----ACGTCT
 				// 		* T menjadi U
@@ -58,7 +58,8 @@ public class File6 {
 	} //end main
 	
 	
-	// validasi input apakah mengandung karakter AGCT atau tidak
+	// validasi input apakah mengandung salah satu karakter dari A,G,C,T atau tidak
+	// jika tidak maka dianggap tidak valid (boolean = false)
 	public static boolean validasi (String dna) {
 		return dna.matches("[AGCT]*");
 	}
