@@ -1,4 +1,4 @@
-# Implementasi Dasar Beberapa Kode Java
+# Tes: Implementasi Dasar Beberapa Kode Java
 
 File 1: Mengambil input dari user dengan java.util.Scanner
 
@@ -12,4 +12,4 @@ File 5: Pemisahan bilangan dengan menambahkan satuannya
 
 File 6: Transkripsi DNA ke RNA
 
-~
+File 7: Komponen Statistika (bilangan terbesar, terkecil, modus, dan standar deviasi)
