@@ -71,8 +71,7 @@ public class File7 {
 	        int h2 = 0;
 	        for (int j = 0; j < array.length; ++j) {
 	            if (array[j] == array[i] && array[j] != modus1) ++h2;
-	            // && di sini digunakan untuk mengecualikan nilai modus1
-	            // dalam penghitungan nilai modus2
+	            // && di sini digunakan untuk mengecualikan nilai modus1 dalam penghitungan nilai modus2
 	        }
 	        if (h2 == x) { // jika total jumlah munculnya suatu bilangan > jumlah bilangan modus
 	        	modus2 = array[i]; // modus2 = elemen array tersebut (yang paling banyak muncul) selain nilai modus1
